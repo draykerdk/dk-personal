@@ -1,5 +1,3 @@
-# Dk Personal
-
 > An assistant that is yours rather than a company’s, and that keeps what it knows about you to itself.
 
 **The agent that belongs to one person.**
