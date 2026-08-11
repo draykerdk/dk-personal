@@ -8,11 +8,13 @@ component:
   scope:
     - "Public description of one agent per member, bound to UID."
     - "Public description of personal context that does not travel."
+    - "Public description of organizing knowledge, decisions and tasks for one person."
     - "Public description of learning contributed upward."
-    - "Public description of relation to Dk Local and Dk Global."
+    - "Public description of relation to Dknowledge, Dk Local and Dk Global."
   non_scope:
     - "A released assistant, agent or application."
     - "Any handling of real personal data."
+    - "The operational runtime, and the global scale of Dk."
   dependencies:
     - dk
     - uid
