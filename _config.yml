@@ -1,0 +1,17 @@
+title: "Dk Personal"
+description: "The agent that belongs to one person. Each member’s own agent, bound to their identity and working in their context: what they are doing, what they are trying to understand about themselves, what to give the day to."
+remote_theme: draykerdk/drayker-theme
+url: "https://personal.drayker.org"
+dk_kicker: "Kernel scope"
+dk_subdomain: "personal.drayker.org"
+dk_repo: "https://github.com/draykerdk/dk-personal"
+
+# The mark, drawn by the shared engine. The scope colour is the main accent until the
+# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
+dk_body: "plain"
+dk_rings: "shieldRing"
+dk_wedge: "shield"
+dk_accent: "#FF5500"
+
+plugins:
+  - jekyll-sitemap
