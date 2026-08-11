@@ -26,3 +26,4 @@ defaults:
       path: ""
     values:
       layout: default
+dk_sphere: "brand"  # a scale of Dk, in the colour of the whole
