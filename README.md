@@ -2,7 +2,9 @@
 
 **The agent that belongs to one person.**
 
-Each member’s own agent, bound to their identity and working in their context: what they are doing, what they are trying to understand about themselves, what to give the day to. It contributes what it learns upward without handing over the context that produced it.
+Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It contributes what it learns upward without handing over the context that produced it.
+
+It is the personal scale of Dk — not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
 
 ## The problem it addresses
 
@@ -16,7 +18,7 @@ An assistant that belongs to a platform ultimately works for the platform. An ag
 
 ## Where this stands
 
-Described as one of the three scales of Dk and specified nowhere public. Drayker has internal material on the personal scope that is not published; what the agent may keep, what it may send upward and what it must refuse are all open.
+This is the thinnest of the components, and saying so is more useful than implying otherwise. Internally it exists as an index note and a portfolio reading of it — an interpretation, not a product decision. There is no specification held back: what the agent may keep, what it may send upward and what it must refuse are genuinely unwritten, and the first document about them decides them.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -25,19 +27,21 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - One agent per member, bound to UID
 - Personal context that does not travel
+- Organizing knowledge, decisions and tasks for one person
 - Learning contributed upward
-- Relation to Dk Local and Dk Global
+- Relation to Dknowledge, Dk Local and Dk Global
 
 ## Not in scope
 
 - A released assistant, agent or application.
 - Any handling of real personal data.
+- The operational runtime, and the global scale of Dk — both are other things.
 
 ## Role in the system
 
 The scale of Dk that belongs to one person.
 
-**Relations.** Bound to UID · authenticated by LCrypt · sends learning up to Dk Local and Dk Global.
+**Relations.** Bound to UID · authenticated by LCrypt · reads from Dknowledge · sends learning up to Dk Local and Dk Global.
 
 **Depends on.** `dk` · `uid` · `lc`
 
@@ -46,9 +50,12 @@ The scale of Dk that belongs to one person.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Write what a personal agent must never send upward.
-2. Model the boundary between personal and collective learning.
-3. Describe one ordinary day it would actually help with.
+1. Write one concrete personal use case: who it is for, what hurts, which data it may
+   touch, the expected result and how success is judged. Nothing else here can be
+   settled before this one is.
+2. Write what a personal agent must never send upward.
+3. Model the boundary between personal and collective learning.
+4. Describe one ordinary day it would actually help with.
 
 ## How to contribute
 
