@@ -37,11 +37,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - Any handling of real personal data.
 - The operational runtime, and the global scale of Dk. Both are other things.
 
-## Role in the system
+## How it fits the whole
 
-The scale of Dk that belongs to one person.
+The scale of Dk that belongs to one person — and the reason the personal layer exists is the same reason the whole system exists: a person is carrying something they never had the conditions to use, and this agent is where those conditions start.
 
-**Relations.** Bound to UID · authenticated by LCrypt · reads from Dknowledge · sends learning up to Dk Local and Dk Global.
+It is bound to [UID](https://uid.drayker.org), the identity the person owns, so what it learns is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from [Dknowledge](https://dknowledge.drayker.org) and sends learning up to Dk Local and Dk Global — the context stays local, the lessons travel. The [Academy](https://academy.drayker.org) shapes formation to the same profile, so study, work and the day-to-day of the person stay one thing. And the volunteer levels and income of [distributed support](https://support.drayker.org) are evaluated against that same identity and participation — the personal agent is where the person, the system and the economy meet.
 
 **Depends on.** `dk` · `uid` · `lc`
 
