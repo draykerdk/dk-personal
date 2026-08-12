@@ -4,7 +4,7 @@
 
 Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It contributes what it learns upward without handing over the context that produced it.
 
-It is the personal scale of Dk — not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
+It is the personal scale of Dk, not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
 
 ## The problem it addresses
 
@@ -12,13 +12,13 @@ An assistant that belongs to a platform ultimately works for the platform. An ag
 
 **How it works today.** Every helpful assistant is owned by a company that also decides what happens to what it learns about you.
 
-**What would change.** The agent is bound to an identity you own; what it learns can travel upward, what it knows about you does not.
+**What would change.** The agent is bound to an identity you own. What it learns can travel upward, what it knows about you does not.
 
 **Why the rest depends on it.** If the most personal layer answers to someone else, none of the guarantees above it mean very much.
 
 ## Where this stands
 
-This is the thinnest of the components, and saying so is more useful than implying otherwise. Internally it exists as an index note and a portfolio reading of it — an interpretation, not a product decision. There is no specification held back: what the agent may keep, what it may send upward and what it must refuse are genuinely unwritten, and the first document about them decides them.
+This is the thinnest of the components, and saying so is more useful than implying otherwise. Internally it exists as an index note and a portfolio reading of it, an interpretation, not a product decision. There is no specification held back: what the agent may keep, what it may send upward and what it must refuse are genuinely unwritten, and the first document about them decides them.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -35,7 +35,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A released assistant, agent or application.
 - Any handling of real personal data.
-- The operational runtime, and the global scale of Dk — both are other things.
+- The operational runtime, and the global scale of Dk. Both are other things.
 
 ## Role in the system
 
@@ -70,11 +70,11 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Dk Personal is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
-- [drayker.org/project/personal/](https://drayker.org/project/personal/) — the same record
+- [drayker.org/project/personal/](https://drayker.org/project/personal/). The same record
   inside the portal, with the live board.
-- [drayker.com/project/personal/](https://drayker.com/project/personal/) — the case for it,
+- [drayker.com/project/personal/](https://drayker.com/project/personal/). The case for it,
   in plain terms.
 
 ---
