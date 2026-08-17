@@ -4,11 +4,11 @@ component:
   name: Dk Personal
   layer: KERNEL
   artifact_type: architecture
-  problem: "An assistant that belongs to a platform ultimately works for the platform."
+  problem: "Without continuous representation owned by the person, identity, memory and agency remain fragmented across and dependent on platforms."
   scope:
-    - "Public description of one agent per member, bound to UID."
+    - "Public description of one continuous personal representation per member, bound to UID and personal Dknowledge."
     - "Public description of personal context that does not travel."
-    - "Public description of organizing knowledge, decisions and tasks for one person."
+    - "Public description of carrying identity, knowledge, decisions, commitments and direction across replaceable models and interfaces."
     - "Public description of learning contributed upward."
     - "Public description of relation to Dknowledge, Dk Local and Dk Global."
   non_scope:
