@@ -1,6 +1,6 @@
 # Dk Personal
 
-> The agent that belongs to one person. Each member’s own agent, bound to their identity and working in their context: what they are doing, what they are trying to understand about themselves, what to give the day to.
+> The continuous representation that belongs to one member: identity, memory, decisions and direction carried across replaceable models, devices and interfaces, with personal context kept personal.
 
 Dk Personal is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
