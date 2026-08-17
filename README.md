@@ -1,18 +1,18 @@
-> An assistant that is yours rather than a company’s, and that keeps what it knows about you to itself.
+> A continuous representation that belongs to you: carrying identity, memory, decisions and direction without turning your life into a platform's asset.
 
-**The agent that belongs to one person.**
+**The continuous representation that belongs to one member.**
 
-Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It contributes what it learns upward without handing over the context that produced it.
+Each member's own intelligence, bound to their identity and personal Dknowledge: carrying what they know, what they have decided, what they are doing and what direction they are taking across models, devices and interfaces. It contributes learning upward without handing over the personal context that produced it.
 
 It is the personal scale of Dk, not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
 
 ## The problem it addresses
 
-An assistant that belongs to a platform ultimately works for the platform. An agent that belongs to the person is the only version of this anyone should trust with a life.
+A temporary assistant can answer a prompt; it cannot preserve a person's continuity. If representation belongs to a platform, identity, memory and agency remain rented. The personal scale of Dk exists so the member remains the subject and intelligence remains their means.
 
-**How it works today.** Every helpful assistant is owned by a company that also decides what happens to what it learns about you.
+**How it works today.** Assistants, accounts and memories are fragmented across providers that decide what persists, what is portable and what happens to what they learn about you.
 
-**What would change.** The agent is bound to an identity you own. What it learns can travel upward, what it knows about you does not.
+**What would change.** Your representation is bound to an identity you own and remains continuous across replaceable models and interfaces. What it learns can travel upward; what it knows about you does not.
 
 **Why the rest depends on it.** If the most personal layer answers to someone else, none of the guarantees above it mean very much.
 
@@ -39,9 +39,9 @@ document about it has somewhere to live and someone can argue with it in public.
 
 ## How it fits the whole
 
-The scale of Dk that belongs to one person — and the reason the personal layer exists is the same reason the whole system exists: a person is carrying something they never had the conditions to use, and this agent is where those conditions start.
+The scale of Dk that belongs to one member — and the reason the personal layer exists is the same reason the whole system exists: a person is carrying something they never had the conditions to use, and continuous representation is where those conditions start.
 
-Dk Personal is the mini version of the intelligence — a core of its own, in the spirit of mixture-of-experts but an architecture of its own — and it is connected to the **personal Dknowledge** of the person: their knowledge, context and history, kept with them. It is bound to [UID](https://uid.drayker.org), the identity the person owns, so what it learns is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from [Dknowledge](https://dknowledge.drayker.org) and sends learning up to Dk Local and Dk Global — the context stays local, the lessons travel. The [Academy](https://academy.drayker.org) shapes formation to the same profile, so study, work and the day-to-day of the person stay one thing. And the volunteer levels and income of [distributed support](https://support.drayker.org) are evaluated against that same identity and participation — the personal agent is where the person, the system and the economy meet.
+Dk Personal is the personal intelligence core, connected to the member's **personal Dknowledge**: knowledge, context and history kept with them. It is bound to [UID](https://uid.drayker.org), the identity the member owns, so continuity is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from Dknowledge and contributes learning to Dk Local and Dk Global — context stays personal; lessons can travel under consent. The [Academy](https://academy.drayker.org) connects formation to the same continuity, so study, work and daily direction do not become separate profiles. [Distributed support](https://support.drayker.org) may use accountable evidence to coordinate common capacity, but Dk Personal is not a scoring device and does not decide a member's rights, income or worth.
 
 **Depends on.** `dk` · `uid` · `lc`
 
