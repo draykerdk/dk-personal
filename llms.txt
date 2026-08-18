@@ -1,6 +1,6 @@
 # Dk Personal
 
-> The continuous representation that belongs to one member: identity, memory, decisions and direction carried across replaceable models, devices and interfaces, with personal context kept personal.
+> The continuous representation that belongs to one member: identity, memory, decisions and direction carried across replaceable models, devices and interfaces, with personal context kept personal. Representation does not end when a decision is taken — effects, refusals and consequences return through the personal Dk as new evidence, without a universal individual veto.
 
 Dk Personal is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
