@@ -12,7 +12,7 @@ A temporary assistant can answer a prompt; it cannot preserve a person's continu
 
 **How it works today.** Assistants, accounts and memories are fragmented across providers that decide what persists, what is portable and what happens to what they learn about you.
 
-**What would change.** Your representation is bound to an identity you own and remains continuous across replaceable models and interfaces. What it learns can travel upward; what it knows about you does not.
+**What would change.** Your representation is bound to an identity you own and remains continuous across replaceable models and interfaces. It helps you live the direction you choose — remembering values, noticing divergences between intention and behavior, and connecting you to what complements you. What is learned can travel upward only when you share, apply or contribute it; what it knows about you does not.
 
 **Why the rest depends on it.** If the most personal layer answers to someone else, none of the guarantees above it mean very much.
 
@@ -28,7 +28,10 @@ document about it has somewhere to live and someone can argue with it in public.
 - One agent per member, bound to UID
 - Personal context that does not travel
 - Organizing knowledge, decisions and tasks for one person
-- Learning contributed upward
+- Helping the member live the directions they chose: remembering values and decisions, noticing when behavior and intention begin to diverge, making conflicts between values observable
+- Connecting what the person wants with people, projects, communities, knowledge and resources that align or complement it
+- Participating in the member's E.C.H. metabolism (Expansion, Complexity, Harmony)
+- Learning contributed upward — only what the member shares, applies or contributes
 - Relation to Dknowledge, Dk Local and Dk Global
 
 ## Not in scope
@@ -41,7 +44,13 @@ document about it has somewhere to live and someone can argue with it in public.
 
 The scale of Dk that belongs to one member — and the reason the personal layer exists is the same reason the whole system exists: a person is carrying something they never had the conditions to use, and continuous representation is where those conditions start.
 
-Dk Personal is the personal intelligence core, connected to the member's **personal Dknowledge**: knowledge, context and history kept with them. It is bound to [UID](https://uid.drayker.org), the identity the member owns, so continuity is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from Dknowledge and contributes learning to Dk Local and Dk Global — context stays personal; lessons can travel under consent. The [Academy](https://academy.drayker.org) connects formation to the same continuity, so study, work and daily direction do not become separate profiles. [Distributed support](https://support.drayker.org) may use accountable evidence to coordinate common capacity, but Dk Personal is not a scoring device and does not decide a member's rights or worth.
+Dk Personal is the personal intelligence core, connected to the member's **personal Dknowledge**: knowledge, context and history kept with them. It exists to help the member **live the directions they themselves choose**: remembering values and decisions over time, noticing when behavior and intention begin to diverge, making conflicts between values observable, keeping what was learned from real consequences and helping turn an intention into next possible steps. It can also relate what the person wants with people, projects, communities, knowledge and resources that align or are complementary — not to decree compatibility, but to widen what the member is able to perceive, relate and do.
+
+This support follows the same **E.C.H. metabolism** described in the book: **Expansion** keeps bringing in experience, conversation, reading, relation, error and other points of view that did not yet fit the member's map; **Complexity** increases the density of useful relations between what entered and what already exists; **Harmony** integrates enough for the person to keep acting with authenticity — making dissonances observable, resolving what can be resolved, keeping legitimate tensions open and reorganizing direction when the previous state no longer represents the person and the world well. The agent does not define a good life on the member's behalf and does not try to freeze them into a coherent profile; it sustains a metabolism in which what is new can enter, relations can gain complexity and coherence can be rebuilt without blocking self-overcoming.
+
+It is bound to [UID](https://uid.drayker.org), the identity the member owns, so continuity is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from Dknowledge and contributes learning to Dk Local and Dk Global — context stays personal; lessons can travel under consent. The [Academy](https://academy.drayker.org) connects formation to the same continuity, so study, work and daily direction do not become separate profiles. [Distributed support](https://support.drayker.org) may use accountable evidence to coordinate common capacity, but Dk Personal is not a scoring device and does not decide a member's rights or worth.
+
+**Not every personal growth needs to enter Drayker.** Capacity can enter the network when it is shared, applied or contributed; the system does not exist to extract every development of the member. A learning can stay private, a relationship can have value without producing reputation, and an intimate change, better rest or a learning that is simply personal does not need to justify itself by usefulness to the collectivity. Dk Personal must be able to sustain human development without turning a whole life into raw material.
 
 Representation does not end when a decision is taken. Effects, refusals and consequences return through the personal Dk as new evidence for local and global synthesis. A single refusal is context, never a universal individual veto; a well-founded pattern of refusals or unexpected consequences can justify review, and a decision can be maintained, adapted, given exceptions, suspended or reversed in light of the new state of the system.
 
