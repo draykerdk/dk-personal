@@ -2,7 +2,7 @@
 
 **The agent that belongs to one person.**
 
-Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It contributes what it learns upward without handing over the context that produced it.
+Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It participates in anonymous federated learning: raw experience stays at its origin, while patterns or model updates may circulate with depersonalized metadata. Deliberate sharing of a person's knowledge or narrative remains a separate, authorized act.
 
 It is the personal scale of Dk, not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
 
@@ -12,7 +12,7 @@ An assistant that belongs to a platform ultimately works for the platform. An ag
 
 **How it works today.** Every helpful assistant is owned by a company that also decides what happens to what it learns about you.
 
-**What would change.** The agent is bound to an identity you own. What it learns can travel upward, what it knows about you does not.
+**What would change.** The agent is bound to an identity you own. It can help you examine values, purposes, decisions and consequences; what becomes collective remains a contextual and contestable choice rather than an automatic extraction of personal life.
 
 **Why the rest depends on it.** If the most personal layer answers to someone else, none of the guarantees above it mean very much.
 
@@ -28,7 +28,10 @@ document about it has somewhere to live and someone can argue with it in public.
 - One agent per member, bound to UID
 - Personal context that does not travel
 - Organizing knowledge, decisions and tasks for one person
-- Learning contributed upward
+- Anonymous federated learning through patterns or model updates with depersonalized metadata, while raw personal context stays local
+- Deliberate knowledge or narrative represented across scales only when shareable and authorized
+- Values, purposes, complementary capacities and the personal E.C.H. learning cycle
+- Consent, refusal, contestability and portability of the personal layer
 - Relation to Dknowledge, Dk Local and Dk Global
 
 ## Not in scope
@@ -41,7 +44,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 The scale of Dk that belongs to one person — and the reason the personal layer exists is the same reason the whole system exists: a person is carrying something they never had the conditions to use, and this agent is where those conditions start.
 
-Dk Personal is the mini version of the intelligence — a core of its own, in the spirit of mixture-of-experts but an architecture of its own — and it is connected to the **personal Dknowledge** of the person: their knowledge, context and history, kept with them. It is bound to [UID](https://uid.drayker.org), the identity the person owns, so what it learns is attributable without belonging to a company. It is authenticated by [Living Cryptography](https://lc.drayker.org). It reads from [Dknowledge](https://dknowledge.drayker.org) and sends learning up to Dk Local and Dk Global — the context stays local, the lessons travel. The [Academy](https://academy.drayker.org) shapes formation to the same profile, so study, work and the day-to-day of the person stay one thing. And the volunteer levels and income of [distributed support](https://support.drayker.org) are evaluated against that same identity and participation — the personal agent is where the person, the system and the economy meet.
+Dk Personal is the mini version of the intelligence — a core of its own, in the spirit of mixture-of-experts but an architecture of its own — and it is connected to the **personal Dknowledge** of the person: their knowledge, context and history, kept with them. It is bound to [UID](https://uid.drayker.org), the identity the person owns, and authenticated by [Living Cryptography](https://lc.drayker.org). It reads from [Dknowledge](https://dknowledge.drayker.org) and participates in two different cross-scale paths. In the federated path, raw personal experience stays local and only patterns or model updates with depersonalized metadata participate; a pattern validated independently in more instances gains progressively stronger weight in global learning. In the deliberate path, the person chooses what knowledge, narrative or contribution to share, and attribution can be preserved. Neither path makes private context common property. The [Academy](https://academy.drayker.org) can shape formation to the same profile, so study, real functions and reflection remain connected. Identity preserves continuity and attribution, but neither support for basic needs nor human worth is calculated from one reputation score. The personal agent may advise and represent context; it does not acquire constitutional authority over the member.
 
 **Depends on.** `dk` · `uid` · `lc`
 
@@ -53,8 +56,8 @@ by one person.
 1. Write one concrete personal use case: who it is for, what hurts, which data it may
    touch, the expected result and how success is judged. Nothing else here can be
    settled before this one is.
-2. Write what a personal agent must never send upward.
-3. Model the boundary between personal and collective learning.
+2. Specify the anonymous federated-learning boundary: which updates may leave, how metadata is depersonalized, and how re-identification is tested and prevented.
+3. Model the distinction between federated patterns and deliberate authorized sharing, including withdrawal, refusal and a useful lesson that remains private.
 4. Describe one ordinary day it would actually help with.
 
 ## How to contribute
