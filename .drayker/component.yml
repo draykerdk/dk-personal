@@ -4,12 +4,15 @@ component:
   name: Dk Personal
   layer: KERNEL
   artifact_type: architecture
-  problem: "Without continuous representation owned by the person, identity, memory and agency remain fragmented across and dependent on platforms."
+  problem: "An assistant that belongs to a platform ultimately works for the platform."
   scope:
-    - "Public description of one continuous personal representation per member, bound to UID and personal Dknowledge."
+    - "Public description of one agent per member, bound to UID."
     - "Public description of personal context that does not travel."
-    - "Public description of carrying identity, knowledge, decisions, commitments and direction across replaceable models and interfaces."
-    - "Public description of learning contributed upward."
+    - "Public description of organizing knowledge, decisions and tasks for one person."
+    - "Public description of anonymous federated learning through patterns or model updates with depersonalized metadata while raw context stays local."
+    - "Public separation between federated patterns and deliberate, authorized sharing of knowledge or narrative."
+    - "Public description of values, purposes, complementary capacities and the personal E.C.H. learning cycle."
+    - "Public description of consent, refusal, contestability and portability."
     - "Public description of relation to Dknowledge, Dk Local and Dk Global."
   non_scope:
     - "A released assistant, agent or application."
@@ -28,10 +31,11 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
+    - Depersonalized metadata may still permit re-identification unless the threat model and safeguards are specified and tested.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dk-personal/issues
   source_of_truth:
     repository: https://github.com/draykerdk/dk-personal
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-20"
