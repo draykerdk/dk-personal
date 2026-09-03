@@ -2,7 +2,9 @@
 
 **The agent that belongs to one person.**
 
-Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. It participates in anonymous federated learning: raw experience stays at its origin, while patterns or model updates may circulate with depersonalized metadata. Deliberate sharing of a person's knowledge or narrative remains a separate, authorized act.
+Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. Dk Personal is an intelligence distributed across local user devices and nearest edge nodes. In disconnected scenarios, it can function offline under specific conditions and with reduced capacity, maintaining the essential functions and context local hardware supports.
+
+It acts strictly on the side of the person: a partner, assistant, trainer and tutor — never a boss, monitor or behavioral judge. The right to intimate contradiction, hesitation, doubt and privacy of consciousness is a core safeguard, operating under zero continuous telemetry. It participates in anonymous federated learning: raw experience stays at its origin, while patterns or model updates may circulate with depersonalized metadata. Deliberate sharing of a person's knowledge or narrative remains a separate, authorized act.
 
 It is the personal scale of Dk, not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
 
