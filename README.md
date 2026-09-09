@@ -1,36 +1,33 @@
-> An assistant that is yours rather than a company’s, and that keeps what it knows about you to itself.
+> A personal agent whose mandate the person controls.
 
-**The agent that belongs to one person.**
+Dk Personal proposes an agent that helps a member organise knowledge, make decisions, learn and act within their own context. Its authority comes from explicit and revisable delegation.
 
-Each member’s own agent, bound to their identity and working in their context: organizing what they know, what they have decided, what they are doing and what to give the day to. Dk Personal is an intelligence distributed across local user devices and nearest edge nodes. In disconnected scenarios, it can function offline under specific conditions and with reduced capacity, maintaining the essential functions and context local hardware supports.
+The design distinguishes stated preferences from inferences, keeps private context within authorised boundaries and makes mandates revocable. Local operation depends on the available hardware and data.
 
-It acts strictly on the side of the person: a partner, assistant, trainer and tutor — never a boss, monitor or behavioral judge. As established in *Do animal à superinteligência* (Chapters 34–38), the personal agent serves as an active shield for **attention sovereignty** and **metacognitive defusion**: it never deploys addictive dopamine loops, urgency dark patterns, or extractive engagement metrics, and it actively assists the human in observing mental narratives and compulsive urges with detachment rather than becoming fused with them. The right to intimate contradiction, hesitation, doubt and privacy of consciousness is a core safeguard, operating under zero continuous telemetry. It participates in anonymous federated learning: raw experience stays at its origin, while patterns or model updates may circulate with depersonalized metadata. Deliberate sharing of a person's knowledge or narrative remains a separate, authorized act.
+A personal agent should expand a person’s room to think and act, including their ability to rest, reconsider and refuse an action in their own sphere.
 
-It is the personal scale of Dk, not the operational runtime, and not Dk Global. Confusing the three is the easiest mistake to make here.
+The proposed agent protects attention and supports reflection: its design excludes compulsive engagement optimisation, urgency dark patterns and continuous behavioural telemetry. It should help the person examine thoughts and impulses without automatically turning them into instructions.
+
+## A practical example
+
+A member could correct a mistaken inference, pause an automated task and decide which project receives a particular piece of context. This is an illustration of the proposed design.
 
 ## The problem it addresses
 
-An assistant that belongs to a platform ultimately works for the platform. An agent that belongs to the person is the only version of this anyone should trust with a life.
-
-**How it works today.** Every helpful assistant is owned by a company that also decides what happens to what it learns about you.
-
-**What would change.** The agent is bound to an identity you own. It can help you examine values, purposes, decisions and consequences; what becomes collective remains a contextual and contestable choice rather than an automatic extraction of personal life.
-
-**Why the rest depends on it.** If the most personal layer answers to someone else, none of the guarantees above it mean very much.
+An assistant can infer a preference incorrectly or act beyond what a person intended. Continuity is useful only when the person can inspect, correct and limit that assistance.
 
 ## Where this stands
 
-This is the thinnest of the components, and saying so is more useful than implying otherwise. Internally it exists as an index note and a portfolio reading of it, an interpretation, not a product decision. There is no specification held back: what the agent may keep, what it may send upward and what it must refuse are genuinely unwritten, and the first document about them decides them.
+The public proposal now describes personal context, delegated authority and situated refusal. It still needs a worked interaction model: what the agent may retain, which information may leave the personal boundary, how an inference is corrected and how another system honours a revoked mandate.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
 - One agent per member, bound to UID
 - Personal context that does not travel
 - Organizing knowledge, decisions and tasks for one person
-- Anonymous federated learning through patterns or model updates with depersonalized metadata, while raw personal context stays local
+- Research into federated learning with explicit privacy requirements, while raw personal context remains within the authorised local boundary
 - Deliberate knowledge or narrative represented across scales only when shareable and authorized
 - Values, purposes, complementary capacities and the personal E.C.H. learning cycle
 - Consent, refusal, contestability and portability of the personal layer
@@ -50,7 +47,7 @@ Dk Personal is the mini version of the intelligence — a core of its own, in th
 
 **Not every personal growth needs to enter Drayker.** Capacity can enter the network when it is shared, applied or contributed; the system does not exist to extract every development of the member. A learning can stay private, a relationship can have value without producing reputation, and an intimate change or a better rest does not need to justify itself by usefulness to the collectivity. Dk Personal must be able to sustain human development without turning a whole life into raw material.
 
-Representation does not end when a decision is taken. Effects, refusals and consequences return through the personal Dk as new evidence for local and global synthesis. Under the **Situated Contextual Veto**, every member exercises absolute, inalienable authority over actions directly executed on their own body, physical space, personal attention, and private cognitive boundary. In collective matters, an individual refusal does not unilaterally block systemic rules that do not target them, but a sustained pattern of refusals triggers mandatory review by the Independent Member Judicial Panel, enabling collective decisions to be adapted, suspended, or reversed.
+Representation does not end when a decision is taken. Effects, refusals and consequences return through the personal Dk as new evidence for local and global synthesis. Under the **Situated Contextual Veto**, every member exercises authority over actions directed at their own body, private domestic sphere, personal attention and private context. In collective matters, an individual refusal does not unilaterally block systemic rules that do not target them, but a sustained pattern of refusals triggers mandatory review by the Independent Member Judicial Panel, enabling collective decisions to be adapted, suspended, or reversed.
 
 **Depends on.** `dk` · `uid` · `lc`
 
@@ -62,7 +59,7 @@ by one person.
 1. Write one concrete personal use case: who it is for, what hurts, which data it may
    touch, the expected result and how success is judged. Nothing else here can be
    settled before this one is.
-2. Specify the anonymous federated-learning boundary: which updates may leave, how metadata is depersonalized, and how re-identification is tested and prevented.
+2. Specify the anonymous federated-learning boundary: which updates may leave, how metadata is depersonalized, and how re-identification risks are measured and mitigated.
 3. Model the distinction between federated patterns and deliberate authorized sharing, including withdrawal, refusal and a useful lesson that remains private.
 4. Describe one ordinary day it would actually help with.
 
