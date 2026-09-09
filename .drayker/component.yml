@@ -7,6 +7,7 @@ component:
   problem: "An assistant that belongs to a platform ultimately works for the platform; an assistant must act strictly on the side of the person."
   scope:
     - "Public description of one agent per member, bound to UID."
+    - "Public description of attention sovereignty and metacognitive defusion: shield against addiction loops and cognitive drift."
     - "Public description of distributed topology: runs locally on user hardware and nearest edge nodes."
     - "Public description of offline capability: operates offline under specific conditions and with reduced capacity."
     - "Public description of partner role: acts on the person's side as partner, assistant, trainer and tutor."
@@ -14,7 +15,7 @@ component:
     - "Public description of organizing knowledge, decisions and tasks for one person."
     - "Public description of anonymous federated learning through patterns with depersonalized metadata while raw context stays local."
     - "Public separation between federated patterns and deliberate, authorized sharing of knowledge."
-    - "Public description of consent, refusal, contestability and portability."
+    - "Public description of consent, Situated Contextual Veto, contestability and portability."
     - "Public description of relation to Dknowledge, Dk Local and Dk Global."
   non_scope:
     - "A released assistant, agent or application today."
@@ -41,4 +42,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk-personal
     path: README.md
-  last_reviewed: "2026-09-03"
+  last_reviewed: "2026-09-08"
