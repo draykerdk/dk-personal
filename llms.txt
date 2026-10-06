@@ -2,7 +2,7 @@
 
 > Dk Personal proposes an agent that helps a member organise knowledge, make decisions, learn and act within their own context. Its authority comes from explicit and revisable delegation.
 
-Dk Personal is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Dk Personal is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
