@@ -6,7 +6,7 @@ The design distinguishes stated preferences from inferences, keeps private conte
 
 A personal agent should expand a person’s room to think and act, including their ability to rest, reconsider and refuse an action in their own sphere.
 
-The proposed agent protects attention and supports reflection: its design excludes compulsive engagement optimisation, urgency dark patterns and continuous behavioural telemetry. It should help the person examine thoughts and impulses without automatically turning them into instructions. Dk Personal curates for each person: it only takes their attention with what it learns is truly important to them, based on their real interests and goals. What is important or urgent it tells them without being asked. The rest waits until they ask. It has nothing to sell, neither products nor ideas, and no consensus to manufacture. It chooses from the interests and context of the person it serves.
+The proposed agent protects attention and supports reflection: its design excludes compulsive engagement optimisation, urgency dark patterns and continuous behavioural telemetry. It should help the person examine thoughts and impulses without automatically turning them into instructions. Dk Personal curates for each person: it only takes their attention with what it learns is truly important to them, based on their real interests and goals. What is important or urgent it tells them without being asked. The rest waits until they ask. Dk Personal has nothing to sell, neither products nor ideas, and no consensus to manufacture. It chooses from the interests and context of the person it serves.
 
 ## A practical example
 
