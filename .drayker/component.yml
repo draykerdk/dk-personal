@@ -13,7 +13,7 @@ component:
     - "Public description of distributed topology: runs locally on user hardware and nearest edge nodes."
     - "Public description of offline capability: operates offline under specific conditions and with reduced capacity."
     - "Public description of partner role: acts on the person's side as partner, assistant, trainer and tutor."
-    - "Public description of personal context that travels only as far as the person authorizes, zero continuous telemetry, and protection of intimate contradiction."
+    - "Public description of personal context that travels only as far as the person authorizes, no continuous telemetry beyond what the person authorizes, and protection of intimate contradiction."
     - "Public description of organizing knowledge, decisions and tasks for one person."
     - "Public description of anonymous federated learning through patterns with depersonalized metadata while raw context stays local."
     - "Public separation between federated patterns and deliberate, authorized sharing of knowledge."
