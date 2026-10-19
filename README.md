@@ -67,7 +67,12 @@ by one person.
 1. Write one concrete personal use case: who it is for, what hurts, which data it may
    touch, the expected result and how success is judged. Nothing else here can be
    settled before this one is.
-2. Specify the anonymous federated-learning boundary: which updates may leave, how metadata is depersonalized, and how re-identification risks are measured and mitigated.
+2. Specify the anonymous federated-learning boundary: which updates may leave, how
+   metadata is depersonalized, and how re-identification risks are measured and
+   mitigated. The specification also has to settle three open points: whether and how
+   updates are combined through secure aggregation, whether and how differential
+   privacy applies, and what revoking a permission reaches in what has already been
+   learned.
 3. Model the distinction between federated patterns and deliberate authorized sharing, including withdrawal, refusal and a useful lesson that remains private.
 4. Describe one ordinary day it would actually help with.
 
