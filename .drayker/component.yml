@@ -13,11 +13,11 @@ component:
     - "Public description of distributed topology: runs locally on user hardware and nearest edge nodes."
     - "Public description of offline capability: operates offline under specific conditions and with reduced capacity."
     - "Public description of partner role: acts on the person's side as partner, assistant, trainer and tutor."
-    - "Public description of personal context that does not travel, zero continuous telemetry, and protection of intimate contradiction."
+    - "Public description of personal context that travels only as far as the person authorizes, zero continuous telemetry, and protection of intimate contradiction."
     - "Public description of organizing knowledge, decisions and tasks for one person."
     - "Public description of anonymous federated learning through patterns with depersonalized metadata while raw context stays local."
     - "Public separation between federated patterns and deliberate, authorized sharing of knowledge."
-    - "Public description of consent, Situated Contextual Veto, contestability and portability."
+    - "Public description of consent, the absolute veto over one's own life and Dk Personal, the justified contextual veto over decisions that directly affect the member's life and context, contestability and portability."
     - "Public description of relation to Dknowledge, Dk Local and Dk Global."
   non_scope:
     - "A released assistant, agent or application today."
@@ -44,4 +44,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk-personal
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-19"
