@@ -1,15 +1,15 @@
 schema_version: 1
 component:
   id: personal
-  name: Dk Personal
+  name: Personal Dk
   layer: KERNEL
   artifact_type: architecture
   problem: "An assistant that belongs to a platform ultimately works for the platform; an assistant must act strictly on the side of the person."
   scope:
     - "Public description of one agent per member, bound to UID."
-    - "Public description of attention sovereignty and metacognitive defusion: shield against addiction loops and cognitive drift."
-    - "Public description of personalized curation: Dk Personal only takes the person's attention with what it learns is truly important to them, based on their real interests and goals, tells them what is important or urgent without being asked, and leaves the rest until they ask. It has nothing to sell, neither products nor ideas, and no consensus to manufacture. It chooses from the interests and context of the person it serves."
-    - "Public description of outward representation: beyond the anonymous background exchange and as far as the person authorizes, Dk Personal promotes their interests with material arguments only, and the maturity of the personal Dknowledge weighs more than computation in its precision."
+    - "Public description of sovereignty of attention and metacognitive defusion: shield against addiction loops and cognitive drift."
+    - "Public description of personalized curation: the personal Dk only takes the person's attention with what it learns is truly important to them, based on their real interests and goals, tells them what is important or urgent without being asked, and leaves the rest until they ask. It has nothing to sell, neither products nor ideas, and no consensus to manufacture. It chooses from the interests and context of the person it serves."
+    - "Public description of outward representation: beyond the anonymous background exchange and as far as the person authorizes, the personal Dk promotes their interests with material arguments only, and the maturity of the personal Dknowledge weighs more than computation in its precision."
     - "Public description of distributed topology: runs locally on user hardware and nearest edge nodes."
     - "Public description of offline capability: operates offline under specific conditions and with reduced capacity."
     - "Public description of partner role: acts on the person's side as partner, assistant, trainer and tutor."
@@ -17,8 +17,8 @@ component:
     - "Public description of organizing knowledge, decisions and tasks for one person."
     - "Public description of anonymous federated learning through patterns with depersonalized metadata while raw context stays local."
     - "Public separation between federated patterns and deliberate, authorized sharing of knowledge."
-    - "Public description of consent, the absolute veto over one's own life and Dk Personal, the justified contextual veto over decisions that directly affect the member's life and context, contestability and portability."
-    - "Public description of relation to Dknowledge, Dk Local and Dk Global."
+    - "Public description of consent, the absolute veto over one's own life and one's own personal Dk, the justified contextual veto over decisions that directly affect the member's life and context, contestability and portability."
+    - "Public description of relation to Dknowledge, the local Dk and the global Dk."
   non_scope:
     - "A released assistant, agent or application today."
     - "External behavioral surveillance, performance scoring, or acting as a boss/monitor."
@@ -44,4 +44,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk-personal
     path: README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"
