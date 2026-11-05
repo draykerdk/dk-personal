@@ -46,6 +46,8 @@ The public proposal now describes personal context, delegated authority and situ
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
+A first experimental implementation of the personal scale is public in [draykerdk/personal-dknowledge](https://github.com/draykerdk/personal-dknowledge): an Obsidian vault organized by DFM, with the Mission view, guided protocols and a local agent that proposes and never writes without the person's yes. It is a very early version and does not yet implement the model described here.
+
 ## Scope
 
 - One agent per member, bound to UID
