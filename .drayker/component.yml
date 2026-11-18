@@ -30,7 +30,7 @@ component:
     - lc
   implementation:
     level: none
-    scope: This repository publishes a charter and open questions; nothing is implemented.
+    scope: "This repository publishes the architectural charter and open questions for the personal Dk; an early experimental local-vault prototype lives separately in draykerdk/personal-dknowledge, while the full personal Dk runtime is not yet implemented."
     evidence:
       - type: document
         ref: README.md
@@ -44,4 +44,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk-personal
     path: README.md
-  last_reviewed: "2026-10-21"
+  last_reviewed: "2026-11-18"
